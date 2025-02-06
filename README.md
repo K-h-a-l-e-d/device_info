@@ -1,16 +1,14 @@
-# device_os_model
+# Device_os_model
 
-A new Flutter project.
+# Description
+This is a Simple flutter application which displays the Model name and OS of the current device
 
-## Getting Started
+## Features
+- generic functionility, supports (android, ios, windows, linux, web, macos) 
+  
+## code explanation
+- by using device_info_plus plugin on creating DeviceInfoPlugin instance we can request a fetch operation for the info of the current device after checking the current platform
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Application Screenshots: 
+|![WhatsApp Image 2025-02-06 at 6 08 11 PM](https://github.com/user-attachments/assets/d9a5c456-7f0b-4b4d-9aa1-6ba5f1746606)|
+|-|
