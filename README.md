@@ -1,4 +1,4 @@
-# Device_os_model
+# Device Info
 
 # Description
 This is a Simple flutter application which displays the Model name and OS of the current device
